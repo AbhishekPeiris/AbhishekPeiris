@@ -3,9 +3,7 @@
 <h4 align="left">Hi 👋, I'm Abhishek Peiris</h4>
 <h6 align="left">Passionate IT Student | Exploring the Boundless World of Technology</h6>
 
-<video width="500px" height="500px" controls="controls">
-        <source src="[vid.mp4](https://github.com/AbhishekPeiris/AbhishekPeiris/blob/main/art%20%26%20design.mp4)" type="video/mp4" />
-       </video>
+<img src="https://github.com/AbhishekPeiris/AbhishekPeiris/blob/main/Black%20Blue%20Geometric%20Tips%20Business%20Facebook%20Cover.png" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpeiris&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpeiris" /> </p>
 

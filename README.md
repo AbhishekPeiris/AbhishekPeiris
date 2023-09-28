@@ -32,6 +32,7 @@
 <a href="https://www.linkedin.com/in/abhishek-peiris-23318a26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dileepa-praveen" height="30" width="40" /></a>
 <a href="https://web.facebook.com/abhishek.peris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="praveen" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abhisheklpeiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ed_pravee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22648657/abhishek-peiris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

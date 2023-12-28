@@ -3,8 +3,6 @@
 <h2 align="left">Hi 👋, I'm Abhishek Peiris</h2>
 <h4 align="left">Passionate IT Student | Exploring the Boundless World of Technology</h4>
 
-<img src="https://github.com/AbhishekPeiris/AbhishekPeiris/blob/main/Hellow%20(1).gif" width="100%">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpeiris&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpeiris" /> </p>
 <table align="left">
 <tr border="none">

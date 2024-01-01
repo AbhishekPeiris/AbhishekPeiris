@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="100%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **MERN Stack and Andriod Application Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 

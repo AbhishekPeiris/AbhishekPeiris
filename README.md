@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-  <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+  <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
   <h1>Hi 👋, I'm Abhishek Peiris</h1>
   <h3>Passionate IT Student | Exploring the Boundless World of Technology</h3>
 </div>

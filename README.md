@@ -1,8 +1,12 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h1 align="center">Hi 👋, I'm Abhishek Peiris</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<div align="center">
+  <img alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+  <h1>Hi 👋, I'm Abhishek Peiris</h1>
+  <h3>Passionate IT Student | Exploring the Boundless World of Technology</h3>
+</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhishekpeiris&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpeiris" /> </p>
 

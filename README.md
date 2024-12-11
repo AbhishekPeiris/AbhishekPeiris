@@ -14,7 +14,7 @@
 <tr border="none">
 <td width="100%" align="left">
   
-- 🌱 I’m currently learning **MERN Stack and Andriod Application Development**
+- 🌱 I’m currently working **QIX startup development team**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
